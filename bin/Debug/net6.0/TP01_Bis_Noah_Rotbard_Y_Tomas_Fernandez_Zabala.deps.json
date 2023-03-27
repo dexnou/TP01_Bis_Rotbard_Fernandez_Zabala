@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP01_Bis_Noah_Rotbard_Y_Tomas_Fernandez_Zabala/1.0.0": {
+        "runtime": {
+          "TP01_Bis_Noah_Rotbard_Y_Tomas_Fernandez_Zabala.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP01_Bis_Noah_Rotbard_Y_Tomas_Fernandez_Zabala/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
